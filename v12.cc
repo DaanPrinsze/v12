@@ -1,4 +1,4 @@
-//Programmeermethoden 2016 - opgave 1: IQ-test
+AA//Programmeermethoden 2016 - opgave 1: IQ-test
 //Door Daan Prinsze (s1910043) en Tim Weijers (s1887542)
 //Beiden eerstejaars wiskunde
 //Docent: dr. W.A. Kosters
